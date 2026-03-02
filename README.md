@@ -10,6 +10,6 @@ El proyecto es un juego de tablero al azar, en el que tiras un dado y vas avanza
 Abrimos el proyecto de guiaviajero en eclipse y ejecutamos el código
 
 ## Grafo
-[Grafo](PérezMorilloFernandoCajaBlanca.drawio.pdf)
+<img width="802" height="1141" alt="PérezMorilloFernandoCajaBlanca drawio (1)" src="https://github.com/user-attachments/assets/b9e62361-939a-41f9-95ea-c3beaa11b045" />
 
 
