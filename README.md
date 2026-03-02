@@ -10,4 +10,5 @@ El proyecto es un juego de tablero al azar, en el que tiras un dado y vas avanza
 Abrimos el proyecto de guiaviajero en eclipse y ejecutamos el código
 
 ## Grafo
-![Imagen Grafo](https://app.diagrams.net/#G16kTUAszkQlaV7qhnsTWN0rbiUbwGEncO#%7B%22pageId%22%3A%22w-NoYKR0uZpZvURtkchz%22%7D)
+
+<img width="795" height="1085" alt="Grafo_Viajero" src="https://github.com/user-attachments/assets/99777b83-0bd9-4a47-8211-92a4c4f7aea1" />
